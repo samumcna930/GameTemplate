@@ -20,7 +20,6 @@ namespace GameTemplateTest
 {
     public partial class GameScreen : UserControl
     {
-        
         public GameScreen()
         {
             InitializeComponent();
