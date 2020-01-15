@@ -39,8 +39,6 @@ namespace GameTemplateTest
                 Refresh();
             }
             //pb.Dispose();
-
-
         }
 
         /// <summary>
